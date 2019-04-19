@@ -1,11 +1,16 @@
 _repo: A-Biography-of-Henry-Clay-The-Senator-from-Kentucky-and-The-life-and-Speeches-of-the-Hon-Henr__59290
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59290-h/images/cover.jpg
 creator:
   author:
     agent_name: Mallory, Daniel
     gutenberg_agent_id: '50379'
     url: http://www.gutenberg.org/2009/agents/50379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59290#A-Biography-of-Henry-Clay-The-Senator-from-Kentucky-and-The-life-and-Speeches-of-the-Hon-Henr_
 gutenberg_issued: '2019-04-17'
 gutenberg_type: Text
 identifiers:
